@@ -25,6 +25,7 @@ See [Resources for learners](../learner/README.md)
 - [Guide for authoring and uploading assessments](assessment/README.md): homework submissions stored on the **Source Academy @ NUS** server, graded by you and your assistants or auto-graded
 - [Guide for managing contest voting](voting/README.md): setup for students to vote for the most popular submissions in a contest 
 - [Guide for setting up a Source Academy game](game/README.md): game provides context for homework assignments
+- [Guide for utilising notification system](notification/README.md): configuration for notifications 
 
 ## Courses using SICP JS and Source Academy
 
